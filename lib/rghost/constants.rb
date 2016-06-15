@@ -129,7 +129,8 @@ module RGhost::Constants
       :tiff12nc => "TIFF 12-bit RGB, no compression",
       :tiff24nc => "TIFF 24-bit RGB, no compression (NeXT standard format)",
       :tifflzw => "TIFF LZW (tag = 5) (monochrome)",
-      :tiffpack => "TIFF PackBits (tag = 32773) (monochrome)"
+      :tiffpack => "TIFF PackBits (tag = 32773) (monochrome)",
+      :txtwrite => "Extract Text"
 
 
     ]
